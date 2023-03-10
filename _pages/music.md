@@ -8,6 +8,7 @@ I am an orchestrator and arranger of musical works, primarily for musical theatr
 I also enjoy playing keyboards in orchestra pits, and have a deep understanding of MainStage programming.
 
 # Past projects
+
 | Date | Project | Location | Work undertaken |
 | --- | --- | --- | --- |
 | March 2023 | Nuneaton Gang Show 2023 | Abbey Theatre, Nuneaton | Transcription<br>Orchestration<br>Typesetting<br>Keyboard programming |
@@ -46,6 +47,7 @@ I also enjoy playing keyboards in orchestra pits, and have a deep understanding 
 
 
 # Past performances
+
 | Date | Project | Location | Work undertaken |
 | --- | --- | --- | --- |
 | December 2022 | Matilda by Rabble Youth Theatre | Abbey Theatre, Nuneaton | Keyboard |
